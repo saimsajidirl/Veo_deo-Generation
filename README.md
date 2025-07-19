@@ -16,8 +16,7 @@ This project is a simple web application that allows users to generate videos us
 ## Setup
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone [<your-repo-url>](https://github.com/saimsajidirl/Veo_deo-Generation)
    ```
 
 2. **Install dependencies:**
